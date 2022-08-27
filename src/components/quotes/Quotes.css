@@ -1,0 +1,33 @@
+.quotes-container {
+  margin-top: 8rem;
+  background: #fff;
+  padding: 5rem;
+}
+
+.quotes {
+  font-size: 3rem;
+  color: #191737;
+  line-height: 5rem;
+}
+
+.quotes-name {
+  font-size: 1.6rem;
+  color: #191737;
+}
+
+.quotes-location {
+  color: #70706e;
+}
+
+.grid-wrapper {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+
+.quotes-img {
+  background: #f6876a;
+  width: 100%;
+  padding: 5rem;
+  border-radius: 43%;
+  height: 30rem;
+}

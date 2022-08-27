@@ -1,0 +1,31 @@
+.cards-wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 2rem;
+  margin-top: 7rem;
+}
+
+.heading-2 {
+  font-size: 5rem;
+  font-weight: 400;
+  color: #191737;
+  margin-top: 0;
+}
+
+.card-btn {
+  background: none;
+  border: 1px solid #f5693b;
+  padding: 1.5rem 2rem;
+  border-radius: 50px;
+  color: #f5693b;
+  cursor: pointer;
+  align-items: center;
+  margin-top: 4rem;
+}
+
+.p-text {
+  line-height: 2.5rem;
+  font-size: 1.4rem;
+  color: #70706e;
+  width: 30rem;
+}

@@ -1,0 +1,29 @@
+.accordion-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  margin-top: 5rem;
+  grid-gap: 8rem;
+}
+
+.accordion-img {
+  width: 100%;
+}
+
+.accordion-img-wrapper {
+  background: #c0b5dd;
+  height: 37rem;
+  padding: 11rem 0 0 0;
+  border-top-left-radius: 45%;
+  border-top-right-radius: 45%;
+  margin-top: 4rem;
+}
+
+.accordion-heading {
+  font-size: 5rem;
+  font-weight: 400;
+  color: #1e1c3f;
+}
+
+.accordion-container {
+  width: 50rem;
+}

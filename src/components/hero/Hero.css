@@ -1,0 +1,110 @@
+.hero {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.hero-heading {
+  font-size: 7rem;
+  font-weight: 300;
+  color: #191737;
+}
+
+.hero-text {
+  width: 350px;
+  line-height: 2.5rem;
+  font-size: 1.4rem;
+  color: #70706e;
+}
+
+.heading-img {
+  width: 10rem !important;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.btn-group {
+  margin-top: 4rem;
+}
+
+.btn-primary {
+  align-items: center;
+  border: navajowhite;
+  background: #f5693b;
+  color: #fff;
+  padding: 1.2rem 2.2rem;
+  border-radius: 50px;
+}
+
+.play-wrapper {
+  align-items: center;
+  margin-left: 2rem;
+}
+
+.how-to {
+  font-size: 1.4rem;
+  color: #191737;
+}
+.brand-wrapper {
+  transform: translateX(60px);
+  margin-top: 5rem;
+}
+
+.brand-wrapper-img {
+  background: #c0b6dd;
+  border-top-left-radius: 42%;
+  border-top-right-radius: 42%;
+  width: 100%;
+}
+.brand-section {
+  margin-top: -1.5rem;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  position: relative;
+}
+
+.brand-details {
+  background: #f1e3ef;
+  padding: 15rem;
+  /* height: 30rem; */
+}
+
+.brand-details-heading {
+  font-size: 3.5rem;
+  font-weight: 400;
+}
+
+.details-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.details-grid-h6 {
+  font-size: 2rem;
+  color: #191737;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+.details-grid-p {
+  font-size: 1.3rem;
+  color: #70706e;
+}
+
+.star {
+  width: 50px;
+  transform: translate(10px, -130px);
+}
+.cream {
+  width: 170px;
+}
+
+.imgs-container {
+  position: absolute;
+  z-index: 2;
+  bottom: -100px;
+  right: 40rem;
+}
+
+.hero-img {
+  width: 100%;
+}
