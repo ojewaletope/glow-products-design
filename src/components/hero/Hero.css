@@ -47,6 +47,7 @@
 .brand-wrapper {
   transform: translateX(60px);
   margin-top: 5rem;
+  z-index: 3;
 }
 
 .brand-wrapper-img {
@@ -65,6 +66,7 @@
 .brand-details {
   background: #f1e3ef;
   padding: 15rem;
+  position: relative;
   /* height: 30rem; */
 }
 
@@ -101,8 +103,9 @@
 .imgs-container {
   position: absolute;
   z-index: 2;
-  bottom: -100px;
-  right: 40rem;
+  top: -100px;
+  background: #c0b5dd;
+  right: 20%;
 }
 
 .hero-img {

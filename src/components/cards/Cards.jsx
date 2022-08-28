@@ -5,7 +5,7 @@ const Cards = () => {
   return (
     <div className="container">
       <div className="cards-wrapper">
-        <div>
+        <div data-aos="fade-up" data-aos-duration="1100">
           <h2 className="heading-2">
             Trending on <span className="special-text">Essentials</span>
           </h2>

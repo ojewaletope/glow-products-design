@@ -22,7 +22,11 @@ const panels = [
 const AccordionSection = () => {
   return (
     <div className="container">
-      <div className="accordion-wrapper">
+      <div
+        className="accordion-wrapper"
+        data-aos="fade-up"
+        data-aos-duration="2000"
+      >
         <div className="accordion-img-wrapper">
           <img
             src="../../../assets/img/cream_.png"

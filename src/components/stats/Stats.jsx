@@ -3,7 +3,11 @@ import "./Stats.css";
 const Stats = () => {
   return (
     <div className="container">
-      <div className="stats-wrapper">
+      <div
+        className="stats-wrapper"
+        data-aos="fade-up"
+        data-aos-duration="2000"
+      >
         <div className="stats">
           <h1 className="stats-heading">
             We make going all natural

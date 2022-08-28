@@ -9,7 +9,11 @@ const Card = ({
   iconSecondName,
 }) => {
   return (
-    <div className="card-container">
+    <div
+      className="card-container"
+      data-aos="fade-left"
+      data-aos-duration="1100"
+    >
       <div className="card">
         <div className="card-img-wrapper">
           <img src={img} alt="card img" />

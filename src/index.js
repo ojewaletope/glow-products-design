@@ -2,6 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 
+import "aos/dist/aos.css";
+
 import reportWebVitals from "./reportWebVitals";
 import LandingPage from "./components/Landing-page/LandingPage";
 
