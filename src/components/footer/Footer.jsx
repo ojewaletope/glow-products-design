@@ -32,22 +32,22 @@ const Footer = () => {
             <h4 className="item-heading">Company</h4>
             <ul className="footer-lists">
               <li className="list-item">
-                <a href="#" className="list-item-link">
+                <a href="/#" className="list-item-link">
                   About
                 </a>
               </li>
               <li className="list-item">
-                <a href="#" className="list-item-link">
+                <a href="/#" className="list-item-link">
                   Jobs
                 </a>
               </li>
               <li className="list-item">
-                <a href="#" className="list-item-link">
+                <a href="/#" className="list-item-link">
                   Branding
                 </a>
               </li>
               <li className="list-item">
-                <a href="#" className="list-item-link">
+                <a href="/#" className="list-item-link">
                   Newsroom
                 </a>
               </li>
@@ -57,22 +57,22 @@ const Footer = () => {
             <h4 className="item-heading">Resources</h4>
             <ul className="footer-lists">
               <li className="list-item">
-                <a href="#" className="list-item-link">
+                <a href="/#" className="list-item-link">
                   College
                 </a>
               </li>
               <li className="list-item">
-                <a href="#" className="list-item-link">
+                <a href="/#" className="list-item-link">
                   Support
                 </a>
               </li>
               <li className="list-item">
-                <a href="#" className="list-item-link">
+                <a href="/#" className="list-item-link">
                   Safety
                 </a>
               </li>
               <li className="list-item">
-                <a href="#" className="list-item-link">
+                <a href="/#" className="list-item-link">
                   Streamkit
                 </a>
               </li>
@@ -82,22 +82,22 @@ const Footer = () => {
             <h4 className="item-heading">Terms & Condition</h4>
             <ul className="footer-lists">
               <li className="list-item">
-                <a href="#" className="list-item-link">
+                <a href="/#" className="list-item-link">
                   Policy
                 </a>
               </li>
               <li className="list-item">
-                <a href="#" className="list-item-link">
+                <a href="/#" className="list-item-link">
                   Faq
                 </a>
               </li>
               <li className="list-item">
-                <a href="#" className="list-item-link">
+                <a href="/#" className="list-item-link">
                   Return & Delivery
                 </a>
               </li>
               <li className="list-item">
-                <a href="#" className="list-item-link">
+                <a href="/#" className="list-item-link">
                   Tracking
                 </a>
               </li>

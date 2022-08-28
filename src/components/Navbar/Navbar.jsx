@@ -12,16 +12,16 @@ const Navbar = () => {
           />
         </div>
         <div className="header-links">
-          <a href="#" className="header-link">
+          <a href="/#" className="header-link">
             Products
           </a>
-          <a href="#" className="header-link">
+          <a href="/#" className="header-link">
             About
           </a>
-          <a href="#" className="header-link">
+          <a href="/#" className="header-link">
             Blogs
           </a>
-          <a href="#" className="header-link">
+          <a href="/#" className="header-link">
             Reviews
           </a>
 
